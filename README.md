@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +69,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+=======
+# Advanced-Statistics-Calculator
+This component is responsible for taking different user inputs based on a chosen calculation type (e.g., property tax, sales tax, compound interest, mole calculations). The input will vary based on the selected calculation, and display the results
+>>>>>>> 2cf0089ccb9427dc2f7286ca9c734db0e8c369c5
